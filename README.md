@@ -14,8 +14,8 @@ http://p30download.com/</br>
 http://academictorrents.com/</br>
 
 ## Learning resources:
-A curated list of every free learning resources related to AI: https://airtable.com/shrSyz0zaGM52kksj/tbli6XwcjDSByLwLL/viw8FIuR24ToQ47Od?blocks=hide&fbclid=IwAR19eZEXs0sAByNjcg-y3Lnke59XCXMVV2mHVScFdjX5jfwIINO5yVnR8zA</br>  
-A curated list of tutorials, papers, projects, communities and more relating to PyTorch. Link:https://github.com/ritchieng/the-incredible-pytorch</br>
+A curated list of every free learning resources in Internet related to AI: https://airtable.com/shrSyz0zaGM52kksj/tbli6XwcjDSByLwLL/viw8FIuR24ToQ47Od?blocks=hide&fbclid=IwAR19eZEXs0sAByNjcg-y3Lnke59XCXMVV2mHVScFdjX5jfwIINO5yVnR8zA
+A curated list of tutorials, papers, projects, communities and more relating to PyTorch. Link:https://github.com/ritchieng/the-incredible-pytorch
 Deep learning: https://github.com/kmario23/deep-learning-drizzle</br>
 Paper with code{mostly state of the art models}: https://paperswithcode.com/
 
@@ -30,10 +30,10 @@ https://github.com/josephmisiti/awesome-machine-learning#python</br>
 Pytorch: https://github.com/bharathgs/Awesome-pytorch-list 
 
 ## Library for neural architecture search, automl, model compression, hyper parameter tuning 
-https://github.com/microsoft/nni {need to test}</br>
-https://ray.readthedocs.io/en/latest/tune.html</br>
-https://github.com/awslabs/adatune</br>
-https://github.com/hyperopt/hyperopt
+NNI: https://github.com/microsoft/nni {need to test}</br>
+Tune: https://ray.readthedocs.io/en/latest/tune.html</br>
+AdaTune: https://github.com/awslabs/adatune</br>
+Hyperopt: https://github.com/hyperopt/hyperopt
 
 ## Cheatsheet:
 Python: https://github.com/gto76/python-cheatsheet</br>
