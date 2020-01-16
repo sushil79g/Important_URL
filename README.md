@@ -34,6 +34,7 @@ NNI: https://github.com/microsoft/nni {need to test}</br>
 Tune: https://ray.readthedocs.io/en/latest/tune.html</br>
 AdaTune: https://github.com/awslabs/adatune</br>
 Hyperopt: https://github.com/hyperopt/hyperopt
+Metric-learning: https://kevinmusgrave.github.io/pytorch-metric-learning/ (Not tested yet)
 
 ## Cheatsheet:
 Python: https://github.com/gto76/python-cheatsheet</br>
