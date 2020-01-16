@@ -33,7 +33,7 @@ Pytorch: https://github.com/bharathgs/Awesome-pytorch-list
 NNI: https://github.com/microsoft/nni {need to test}</br>
 Tune: https://ray.readthedocs.io/en/latest/tune.html</br>
 AdaTune: https://github.com/awslabs/adatune</br>
-Hyperopt: https://github.com/hyperopt/hyperopt
+Hyperopt: https://github.com/hyperopt/hyperopt </br>
 Metric-learning: https://kevinmusgrave.github.io/pytorch-metric-learning/ (Not tested yet)
 
 ## Cheatsheet:
