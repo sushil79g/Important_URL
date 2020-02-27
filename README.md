@@ -55,3 +55,6 @@ Pygal (matplotlib + added style) http://www.pygal.org/en/latest/index.html
 https://github.com/amitness/toolbox</br>
 https://github.com/josephmisiti/awesome-machine-learning#natural-language-processing-10
 https://github.com/sorend/awesome-python-machine-learning
+
+## open-source projects/library related to NLP
+Pre-processing text: <a href='https://github.com/jfilter/clean-text'>clean-text</a>, <a href='https://github.com/lyeoni/prenlp'>prenlp</a>, <a href='https://github.com/jeongukjae/python-mecab'> meacb</a>, <a href='https://github.com/psych0der/textprocess'> textprocess</a>, <a href='https://github.com/NIHOPA/NLPre'> NLPre</a>
