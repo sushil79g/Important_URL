@@ -51,6 +51,9 @@ HoloViews (build visualization data structure)  http://holoviews.org/</br>
 Plotly (2D,3D graph + js support) https://plot.ly/python/</br>
 Pygal (matplotlib + added style) http://www.pygal.org/en/latest/index.html
 
+## Machine Learning related to production and deploy:
+Awesomeprod: https://github.com/EthicalML/awesome-production-machine-learning
+
 ## Open-source repo for curated list:
 https://github.com/amitness/toolbox</br>
 https://github.com/josephmisiti/awesome-machine-learning#natural-language-processing-10
