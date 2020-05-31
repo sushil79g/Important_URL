@@ -49,7 +49,8 @@ Mpld3 (matplotlib +d3js)  http://mpld3.github.io/</br>
 Bokeh (stack multiple graph)  http://bokeh.pydata.org/en/latest/</br>
 HoloViews (build visualization data structure)  http://holoviews.org/</br>
 Plotly (2D,3D graph + js support) https://plot.ly/python/</br>
-Pygal (matplotlib + added style) http://www.pygal.org/en/latest/index.html
+Pygal (matplotlib + added style) http://www.pygal.org/en/latest/index.html <br>
+Altair (d3js alternative) https://github.com/altair-viz/altair
 
 ## Machine Learning related to production and deploy:
 Awesomeprod: https://github.com/EthicalML/awesome-production-machine-learning
