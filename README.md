@@ -64,7 +64,17 @@ https://github.com/sorend/awesome-python-machine-learning
 Pre-processing text: <a href='https://github.com/jfilter/clean-text'>clean-text</a>, <a href='https://github.com/lyeoni/prenlp'>prenlp</a>, <a href='https://github.com/jeongukjae/python-mecab'> meacb</a>, <a href='https://github.com/psych0der/textprocess'> textprocess</a>, <a href='https://github.com/NIHOPA/NLPre'> NLPre</a>
 </br>
 
+## Auto Exploratory data analysis
+Pandas-profiling https://github.com/pandas-profiling/pandas-profiling </br>
+Sweetviz https://github.com/fbdesignpro/sweetviz </br>
+Auto vizualization https://github.com/AutoViML/AutoViz </br>
+Dtale https://github.com/man-group/dtale </br>
+Data prep https://github.com/sfu-db/dataprep </br>
+Quick EDA https://github.com/sid-the-coder/QuickDA </br>
+Sparmagic https://github.com/jupyter-incubator/sparkmagic </br>
+
 ## concurrency
 pebble: https://pypi.org/project/Pebble/ </br>
+
 ## Talks from top companies </br>
 Machine learning talks http://featurestore.org/
